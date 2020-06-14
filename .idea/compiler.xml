@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microcloud-provider-product-hystrix" />
+        <module name="microcloud-config-bus" />
+        <module name="microcloud-config-client" />
+        <module name="microcloud-config2" />
+        <module name="microcloud-provider-product" />
+        <module name="microcloud-consumer-feign" />
+        <module name="microcloud-provider-product3" />
+        <module name="microcloud-provider-product2" />
+        <module name="microcloud-config" />
+        <module name="microcloud-zuul-gateway" />
+        <module name="microcloud-config-bus-client" />
+        <module name="microcloud-consumer-turbine" />
+        <module name="microcloud-consumer-hystrix-dashboard" />
+        <module name="microcloud-config3" />
+        <module name="microcloud-security" />
+        <module name="microcloud-config-eureka-client" />
+        <module name="microcloud-consumer-ribbon" />
+        <module name="microcloud-config-product-client" />
+        <module name="microcloud-service" />
+        <module name="microcloud-api" />
+        <module name="microcloud-ha-config-eureka" />
+        <module name="microcloud-eureka3" />
+        <module name="microcloud-eureka2" />
+        <module name="microcloud-eureka" />
+        <module name="microcloud-provider-user-hystrix" />
+        <module name="microcloud-consumer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
